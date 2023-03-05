@@ -10,3 +10,5 @@
 <sub>While KaosSec has been known for their bold and often controversial actions in the past, the deployment of these malicious programs marks a new level of aggression. The group has shown a disregard for the impact their actions have on innocent victims, and the international community is now scrambling to find a way to contain the fallout.
 
 <sub>As of now, it remains unclear what the future holds for BerrySec and their ongoing conflict with KaosSec. However, one thing is for certain – the cybersecurity landscape has been permanently changed by these latest developments.
+
+#### this is an entirely AI generated description of a fictional group that claims no resemblance to any real individuals, entities, or software
